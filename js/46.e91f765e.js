@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[46],{"771a":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("q-page",{staticClass:"q-pa-md"},[a("router-view")],1)},s=[],u={name:"InboundRoutesPage"},c=u,l=a("a6c2"),o=Object(l["a"])(c,t,s,!1,null,null,null);n["default"]=o.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[44],{c2b2:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("q-page",{staticClass:"q-pa-md"},[t("router-view")],1)},s=[],c={name:"ExtensionGroupsPages"},r=c,u=t("a6c2"),l=Object(u["a"])(r,a,s,!1,null,null,null);n["default"]=l.exports}}]);

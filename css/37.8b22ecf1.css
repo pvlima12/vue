@@ -1,0 +1,1 @@
+table tbody tr{cursor:pointer}table tbody tr:nth-child(2n){background-color:#e7e7e7}table tbody tr:nth-child(2n):hover,table tbody tr:nth-child(odd):hover{background-color:#c4c4c4}.q-table th{color:#000!important}

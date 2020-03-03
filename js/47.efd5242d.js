@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[47],{"7f7c":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("q-page",{staticClass:"q-pa-md"},[a("router-view")],1)},s=[],c={name:"NumberingPlanPages"},l=c,r=a("a6c2"),u=Object(r["a"])(l,t,s,!1,null,null,null);n["default"]=u.exports}}]);

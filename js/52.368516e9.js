@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[52],{"3caf":function(e,a,n){"use strict";n.r(a);var t=function(){var e=this,a=e.$createElement,n=e._self._c||a;return n("q-page",{staticClass:"q-pa-md"},[n("router-view")],1)},s=[],c={name:"EspecialPrefixPages"},l=c,r=n("a6c2"),i=Object(r["a"])(l,t,s,!1,null,null,null);a["default"]=i.exports}}]);

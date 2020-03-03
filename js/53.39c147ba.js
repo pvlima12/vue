@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[53],{4811:function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("q-page",{staticClass:"q-pa-md"},[a("router-view")],1)},r=[],s={name:"TrunkGroupsPage"},u=s,c=a("a6c2"),l=Object(c["a"])(u,t,r,!1,null,null,null);n["default"]=l.exports}}]);

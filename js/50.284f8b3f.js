@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[50],{ddab:function(e,a,n){"use strict";n.r(a);var t=function(){var e=this,a=e.$createElement,n=e._self._c||a;return n("q-page",{staticClass:"q-pa-md"},[n("router-view")],1)},s=[],r={name:"PrefixPages"},c=r,l=n("a6c2"),u=Object(l["a"])(c,t,s,!1,null,null,null);a["default"]=u.exports}}]);
